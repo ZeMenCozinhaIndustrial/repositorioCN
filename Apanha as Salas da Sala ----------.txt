@@ -1,0 +1,1 @@
+Apanha as Salas da Sala ---------- apanha as salas da tabela sala_componente_disponivel------------------ Marca as que já estão presentes----------Adiciona as novas ou Remover
